@@ -19,5 +19,6 @@ html {
 }
 
 .img-flex {
+  display: block;
   width: 50%
 }
